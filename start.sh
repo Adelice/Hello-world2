@@ -1,4 +1,4 @@
-export MOVIE_API_KEY='e3204b852fcb4a1621b5c8dbebfec368'
+export MOVIE_API_KEY='05490f7363b04823a92956806958b441'
 export SECRET_KEY='12345'
 export MAIL_USERNAME='adeliceumutoniwase@gmail.com'
 export MAIL_PASSWORD='moringaschool'
